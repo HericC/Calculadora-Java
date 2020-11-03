@@ -2,7 +2,6 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/HericC/Calculadora-Java)
 ![GitHub](https://img.shields.io/github/license/HericC/Calculadora-Java)
 
-
 # Calculadora-Java
 
 Calculadora desenvolvida em Java para desktop.
@@ -17,6 +16,7 @@ git clone https://github.com/HericC/Calculadora-Java.git
 ```
 
 ## Development Setup
+-- Projeto exportado do Netbeans.
 
 Dependencies (optional)
 ```
